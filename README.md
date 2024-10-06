@@ -21,3 +21,8 @@ https://stackoverflow.com/
 https://developer.mozilla.org/zh-CN/
 https://css-tricks.com/
 https://validator.w3.org/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+https://stackblitz.com/
+https://codesnippet.io/github-api-tutorial/
+https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
+https://resend.com/home
